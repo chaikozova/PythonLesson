@@ -9,3 +9,5 @@ print(max(number_list))
 print(min(number_list))
 print(sum(number_list))
 
+
+
